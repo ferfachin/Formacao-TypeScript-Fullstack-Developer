@@ -1,4 +1,4 @@
-/* const num: number = 15
+const num: number = 15
 
 if (num > 15) {
   console.log('Num maior que 15')
@@ -6,7 +6,7 @@ if (num > 15) {
   console.log('Num igual a 15');
 } else {
   console.log('Num menor que 15');
-} */
+}
 
 const typeUser = {
   admin: 'Seja bem vindo admin',
